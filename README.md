@@ -55,8 +55,6 @@
 
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge&logoWidth=40&logoHeight=40)](https://instagram.com/wallace_medeiros_dias)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=40&logoHeight=40)](www.linkedin.com/in/wallace-m-dias-94010021a)
 
 
 
