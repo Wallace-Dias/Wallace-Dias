@@ -1,77 +1,32 @@
-# Wallace Dias
+<!-- Cabeçalho / Hero -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/Wallace-Dias?v=4" alt="avatar" width="140" style="border-radius:50%"/>
+</p>
 
-Olá — eu sou o Wallace. Sou estudante e desenvolvedor com foco em Python e linguagens de baixo nível (C). Este repositório funciona como meu perfil público e centraliza informações sobre minhas habilidades, projetos e formas de contato.
+<h1 align="center">Wallace Dias</h1>
+<p align="center">Estudante e desenvolvedor — Python · C · Sistemas de baixo nível · Automação</p>
 
----
-
-## 📌 Visão geral
-
-- Linguagens principais: Python, C
-- Interesses: desenvolvimento de software, aprendizado contínuo, projetos open source
+<p align="center">
+  <!-- Badges rápidos -->
+  <img src="https://img.shields.io/badge/Status-Open%20to%20collab-green.svg?style=for-the-badge" alt="open to collab"/>
+  <img src="https://img.shields.io/badge/Top%20Langs-Python%20%7C%20C-0D1117.svg?style=for-the-badge" alt="langs"/>
+  <img src="https://img.shields.io/badge/Editor-VSCode-0D1117.svg?style=for-the-badge&logo=visual-studio-code" alt="vscode"/>
+</p>
 
 ---
 
 ## 🚀 Projetos
 
-A seguir, alguns repositórios em destaque. Substitua pelos seus repositórios reais ou edite as descrições conforme necessário.
+A seguir, os repositórios mais populares do meu perfil (atualizado automaticamente).
 
-- **projeto-exemplo-1** — Sistema de automação em Python para tarefas administrativas. Tecnologias: Python, Requests, SQLite. Link: https://github.com/Wallace-Dias/projeto-exemplo-1
-- **projeto-exemplo-2** — Implementação em C de estruturas de dados e algoritmos com foco em performance. Tecnologias: C, Makefile. Link: https://github.com/Wallace-Dias/projeto-exemplo-2
+| Projeto | Descrição | Linguagem | Estrelas |
+|---|---|---:|---:|
+| [CheckList](https://github.com/Wallace-Dias/CheckList) |  |  | ![stars](https://img.shields.io/github/stars/Wallace-Dias/CheckList?style=social) |
+| [B-Merchant](https://github.com/Wallace-Dias/B-Merchant) |  | ![lang](https://img.shields.io/badge/language-Python-blue) | ![stars](https://img.shields.io/github/stars/Wallace-Dias/B-Merchant?style=social) |
+| [Cadastro_de_Funcionarios](https://github.com/Wallace-Dias/Cadastro_de_Funcionarios) | Sistema de cadastro de Funcionários | ![lang](https://img.shields.io/badge/language-Python-blue) | ![stars](https://img.shields.io/github/stars/Wallace-Dias/Cadastro_de_Funcionarios?style=social) |
 
----
+> Dica: este bloco é gerado automaticamente por `scripts/update_top_repos.py`.
 
-## 📈 Estatísticas do GitHub
-
-<!-- Badges geradas por serviços externos — mantidas por conveniência -->
-![](https://github-readme-stats.vercel.app/api?username=Wallace-Dias&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wallace-Dias&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wallace-Dias&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-
-## 🛠 Tecnologias e ferramentas
-
-- Python
-- C
-- Git / GitHub
-- Visual Studio Code
-- Microsoft Office (ferramentas administrativas)
-
----
-
-## 🏆 Reconhecimentos
-
-![](https://github-profile-trophy.vercel.app/?username=Wallace-Dias&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🔗 Contato
-
-- LinkedIn: https://www.linkedin.com/in/wallacemdias
-- Instagram: https://instagram.com/wallace_medeiros_dias
-- Email: seu.email@exemplo.com (substitua pelo seu e-mail profissional)
-
-Visitas: [![](https://visitcount.itsvg.in/api?id=Wallace-Dias&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-## Como contribuir
-
-Se você quiser contribuir com algum projeto ou trocar ideias:
-
-1. Abra uma issue explicando a proposta.
-2. Envie um pull request com mudanças pequenas e descritas no template do PR.
-
----
-
-## Próximos passos recomendados (sugestões)
-
-- Atualizar a seção "Projetos" com links e descrições reais dos repositórios.
-- Incluir contato por e-mail profissional no README (opcional).
-- Criar um arquivo CONTRIBUTING.md e templates de ISSUE/PR para facilitar contribuições.
-
-<!-- Arquivo gerado/atualizado para ter um tom mais profissional e organizado -->
+<sub>README atualizado para um design mais visual — envie links e imagens que quer colocar e eu integro.</sub>
 
 
